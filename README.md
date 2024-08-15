@@ -1,0 +1,1 @@
+Para o projeto principal, considerar apenas o app.py, o arquivo desafios.py trata apenas de alguns exercicios passados durante o curso, onde possuir ## Se trata do desafio e onde possuir apenas # é a solução encontrada.
